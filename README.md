@@ -18,7 +18,7 @@
 ## Installation : 
  ( Has been done on Macos but no worries for other os like windows 10 )
 
- - Go to the clon directory 
+ - Go to the clone directory 
  - To create the environment : vagrant up 
  - To delete the environment : vagrant destroy [ -f ]
 
